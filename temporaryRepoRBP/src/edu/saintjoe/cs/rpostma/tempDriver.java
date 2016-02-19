@@ -1,7 +1,8 @@
 package edu.saintjoe.cs.rpostma;
 
 public class tempDriver {
-
+// uh i think this is mine now
+	
 	public static void main(String[] args) {
 		int array[];
 		int size = 10;//array size
